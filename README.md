@@ -1,0 +1,1 @@
+# swift_dependency_injection_through_function
